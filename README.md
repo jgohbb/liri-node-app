@@ -3,3 +3,11 @@ This is a Language Interpretation and Recognition Interface (LIRI) app similar t
 
 ## Overview
 This app
+
+
+
+
+
+## Further improvements in the pipeline
+-[] Incorporate inquirer to make selection for options.
+-[] Introduce other api (cinemas) to expand scope of the app.
