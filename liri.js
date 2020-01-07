@@ -1,6 +1,6 @@
 require("dotenv").config();
 
-// Global variables - packages, spotify keys
+// Global variables - packages, spotify keys, funtion variables
 var keys = require("./keys.js");
 var axios = require("axios");
 var Spotify = require("node-spotify-api");
