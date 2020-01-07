@@ -21,11 +21,11 @@ for (var i = 3; i < combineArgument.length; i++) {
 }
 
 if (request === "concert-this") {
-    concertThis();
+    concertInfo();
 } else if (request === "spotify-this-song") {
-    spotifyThis();
+    spotifyInfo();
 } else if (request === "movie-this") {
-    movieThis();
+    movieInfo();
 } else if (request === "do-what-it-says") {
     fs.readFile("random.txt", "utf8", function(error, data) {
         if (error) {
@@ -37,23 +37,24 @@ if (request === "concert-this") {
         searchInfo = dataArr[1];
         
         if (request === "concert-this") {
-            concertThis();
+            ConcertInfo();
         } else if (request === "spotify-this-song") {
-            spotifyThis();
+            spotifyInfo();
         } else if (request === "movie-this") {
-            movieThis();
+            movieInfo();
         }
     });
 
 } else {
-    console.log("No command for search added. Please include 'concert-this' or 'movie-this' or 'spotify-this-song' or 'do-what-it-says'.");
+    console.log("No command for search added. Please include 'concert-this', 'movie-this', 'spotify-this-song' or 'do-what-it-says'.");
 }
 
 // --------------------------------FUNCTIONS---------------------------------
 // Concert search function: (1) no response or undefined band = alert info; (2) defined band = info on venue, location and date
-function concertThis() {
-    axios.get("https://rest.bandsintown.com/artists/" + searchInfo + "/events?app_id=codingbootcamp").then(
-    function(response) {
+function concertInfo() {
+    axios
+    .get("https://rest.bandsintown.com/artists/" + searchInfo + "/events?app_id=codingbootcamp")
+    .then (function(response) {
         for (var i = 0; i < response.data.length; i++) {
             console.log("---------------------------------------")
             console.log("Venue: " + response.data[i].venue.name);
@@ -63,12 +64,12 @@ function concertThis() {
     })
     .catch(function(error) {
         console.log("---------------------------------------");
-        console.log("Nothing found for this request, please try another band.");
+        console.log("Nothing found for this request, please try another artist or band.");
     });
 }
 
 // Spotify song search function: (1) no response = recommenf 'Ace of Base'; (2) undefined song = alert error info; (3)defined song = all required info
-function spotifyThis() {
+function spotifyInfo() {
     if (searchInfo === "") {
         spotify
         .search({ type: 'track', query: "The Sign Ace of Base" })
@@ -95,46 +96,62 @@ function spotifyThis() {
                 console.log("Preview Link: " + response.tracks.items[i].preview_url);
             }
         })
-        .catch(function(error, undefined) {
+        .catch(function(error) {
             console.log("No results found. Try another song");
         });
     }
 }
 
 // Movie search function: (1)no response = suggest Mr Nobody; (2)undefined movie = alert error; (3)movie = all relevant info 
-function movieThis() {
+function movieInfo() {
     if (searchInfo === "") {
-        console.log("If you haven't watched Mr. Nobody then you should: <http://www.imdb.com/title/tt0485947/>")
+        console.log("If you haven't watched Mr. Nobody then you should: <http://www.imdb.com/title/tt0485947/>");
         console.log("It's on Netflix!");
-        axios.get("http://www.omdbapi.com/?t=Mr.Nobody&y=&plot=short&apikey=trilogy").then(
-        function(response) {
-            console.log("Title: " + response.data.Title);
-            console.log("Year: " + response.data.Year);
-            console.log("IMDB Rating: " + response.data.imdbRating);
-            console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
-            console.log("Country: " + response.data.Country);
-            console.log("Language: " + response.data.Language);
-            console.log("Plot: " + response.data.Plot);
-            console.log("Actors: " + response.data.Actors);
+        axios
+        .get("http://www.omdbapi.com/?t=Mr.Nobody&y=&plot=short&apikey=trilogy")
+        .then(function(response) {
+            var movie = response.data;
+            console.log("Title: " + movie.Title);
+            console.log("Year: " + movie.Year);
+            console.log("IMDB Rating: " + movie.imdbRating);
+            console.log("Rotten Tomatoes Rating: " + movie.Ratings[1].Value);
+            console.log("Country: " + movie.Country);
+            console.log("Language: " + movie.Language);
+            console.log("Plot: " + movie.Plot);
+            console.log("Actors: " + movie.Actors);
         })
         .catch(function(error) {
             console.log(error);
         });
     } else {
-        axios.get("http://www.omdbapi.com/?t=" + searchInfo + "&y=&plot=short&apikey=trilogy").then(
-        function(response) {
-            console.log("Title: " + response.data.Title);
-            console.log("Year: " + response.data.Year);
-            console.log("IMDB Rating: " + response.data.imdbRating);
-            console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
-            console.log("Country: " + response.data.Country);
-            console.log("Language: " + response.data.Language);
-            console.log("Plot: " + response.data.Plot);
-            console.log("Actors: " + response.data.Actors);
+        axios
+        .get("http://www.omdbapi.com/?t=" + searchInfo + "&y=&plot=short&apikey=trilogy")
+        .then(function(response) {
+            var movie = response.data;
+            console.log("Title: " + movie.Title);
+            console.log("Year: " + movie.Year);
+            console.log("IMDB Rating: " + movie.imdbRating);
+            console.log("Rotten Tomatoes Rating: " + movie.Ratings[1].Value);
+            console.log("Country: " + movie.Country);
+            console.log("Language: " + movie.Language);
+            console.log("Plot: " + movie.Plot);
+            console.log("Actors: " + movie.Actors);
+
+            var timeStamp = moment().format();
+            fs.appendFile("log.txt", "Movie logged stamp: " + timeStamp + " \n" + movie.Title + "\n" + movie.Year +
+            " \n" + movie.Ratings[1].Source + " " + movie.Ratings[1].Value +
+            " \n" + movie.Country + " \n" + movie.Language +
+            " \n" + movie.Plot + " \n" + movie.Actors + " \n---------------------\n" + " \n", function (error) {
+                if (error) {
+                    console.log(error);
+                }
+            })
         })
         .catch(function(error) {
-            console.log("---------------------------------------");
-            console.log("No results found. Please try again.");
+            // console.log("---------------------------------------");
+            // console.log("No results found. Please try again.");
+            console.log(error);
         });
     }
+    
 }
