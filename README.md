@@ -13,8 +13,13 @@ User will require to input the command for the selected options in the terminal:
 - spotify-this-song
 - movie-this
 - do-what-it-says
+
 Example:
-![concert](images/concert-this.png)
+![concert] (images/concert-this.png)
+
+## Concert-this
+The user will be able to search for upcoming concerts by artist or band. This will provide concerts venue, location and date.
+![concert2]  (images/concert-this2.png)
 
 
 
