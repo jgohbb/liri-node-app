@@ -1,20 +1,435 @@
-Movie logged stamp: 2020-01-07T13:28:11-07:00 
-Space Jam
-1996 
-Rotten Tomatoes 43% 
-USA 
-English 
-In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan. 
-Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington 
+Movie logged stamp: 2020-01-07T14:31:43-07:00 
+Rambo
+2008 
+Rotten Tomatoes 38% 
+Germany, USA 
+English, Burmese, Thai 
+In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit. 
+Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish 
 ---------------------
  
-Movie logged stamp: 2020-01-07T13:28:56-07:00 
-Gone with the Wind
-1939 
-Rotten Tomatoes 90% 
-USA 
-English 
-A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods. 
-Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes 
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+The Forum 
+Los Angeles, CA United States 
+Saturday, January 18th 2020 
 ---------------------
- 
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+U.S. Cellular Center Asheville 
+Asheville, NC United States 
+Friday, January 31st 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Columbus, OH United States 
+Tuesday, February 4th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Saint Louis, MO United States 
+Wednesday, February 5th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Detroit, MI United States 
+Friday, February 7th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour  
+Asheville, NC United States 
+Saturday, February 1st 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Brooklyn, NY United States 
+Thursday, February 13th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Barclays Center 
+Brooklyn, NY United States 
+Friday, February 14th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Charlottesville, VA United States 
+Sunday, February 16th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Indianapolis, IN United States 
+Tuesday, February 18th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Nashville, TN United States 
+Wednesday, February 19th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Allstate Arena 
+Chicago, IL United States 
+Friday, February 21st 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Chicago, IL United States 
+Saturday, February 22nd 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Pittsburgh, PA United States 
+Tuesday, February 25th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Buffalo, NY United States 
+Wednesday, February 26th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Washington, DC United States 
+Friday, February 28th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Uncasville, CT United States 
+Saturday, February 29th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Scotiabank Arena 
+Toronto,  Canada 
+Tuesday, March 3rd 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Toronto,  Canada 
+Wednesday, March 4th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Bell Centre 
+Montreal,  Canada 
+Friday, March 6th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Ottawa,  Canada 
+Saturday, March 7th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+KFC Yum! Center 
+Louisville, KY United States 
+Tuesday, March 10th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Fiserv Forum 
+Milwaukee, WI United States 
+Wednesday, March 11th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Xcel Energy Center 
+St Paul, MN United States 
+Friday, March 13th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+CHI Health Center Omaha 
+Omaha, NE United States 
+Saturday, March 14th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Asunción Paraguay 
+Asunción,  Paraguay 
+Tuesday, March 31st 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Autódromo José Carlos Pace 
+São Paulo,  Brazil 
+Friday, April 3rd 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Autódromo José Carlos Pace 
+São Paulo,  Brazil 
+Saturday, April 4th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Tom Lee Park 
+Memphis, TN United States 
+Friday, May 1st 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Tom Lee Park 
+Memphis, TN United States 
+Saturday, May 2nd 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Tuscaloosa Amphitheater 
+Tuscaloosa, AL United States 
+Wednesday, May 13th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+The Woodlands, TX United States 
+Friday, May 15th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Dallas, TX United States 
+Saturday, May 16th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Jacksonville, FL United States 
+Tuesday, May 19th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Tampa, FL United States 
+Friday, May 22nd 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Grand Rapids, MI United States 
+Tuesday, February 11th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+West Palm Beach, FL United States 
+Saturday, May 23rd 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Virginia Beach, VA United States 
+Wednesday, May 27th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Charlotte, NC United States 
+Friday, May 29th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Atlanta, GA United States 
+Saturday, May 30th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Raleigh, NC United States 
+Tuesday, June 2nd 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Camden, NJ United States 
+Friday, June 5th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Gilford, NH United States 
+Wednesday, June 10th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Mansfield, MA United States 
+Friday, June 12th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Southside Festival 
+Neuhausen Ob Eck,  Germany 
+Saturday, June 20th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Aegon Arena 
+Bratislava,  Slovakia 
+Wednesday, June 24th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Hurricane Festival 
+Scheeßel,  Germany 
+Friday, June 19th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Cleveland, OH United States 
+Saturday, February 8th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+III: The World Tour 
+Saratoga Springs, NY United States 
+Saturday, June 6th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+PLEIN AIR 
+Marmande,  France 
+Sunday, June 28th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+The Neumünster Abbey Cultural Exchange Center 
+Luxembourg,  Luxembourg 
+Tuesday, June 30th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Lac du Malsaucy 
+Belfort,  France 
+Thursday, July 2nd 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Auditorium Parco della Musica 
+Roma,  Italy 
+Sunday, July 5th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+OGR - Officine Grandi Riparazioni 
+Torino,  Italy 
+Monday, July 6th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Burg Clam 
+Klam,  Austria 
+Wednesday, July 15th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Colours Of Ostrava 
+Ostrava-vítkovice,  Czech Republic 
+Friday, July 17th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Latitude Festival 
+Beccles,  United Kingdom 
+Saturday, July 18th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Benicàssim 
+Castelló De La Plana,  Spain 
+Sunday, July 19th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Garorock 
+Marmande,  France 
+Thursday, June 25th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+OpenAir St. Gallen Festival 
+Sankt Gallen,  Switzerland 
+Saturday, June 27th 2020 
+---------------------
+Concert logged stamp: 2020-01-07T14:32:09-07:00 
+Arena di Verona 
+Verona,  Italy 
+Sunday, July 12th 2020 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Post Malone 
+Circles 
+Hollywood's Bleeding 
+null 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Jon Bellion 
+Crop Circles 
+Crop Circles 
+null 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Pierce The Veil 
+Circles 
+Misadventures 
+null 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+EDEN 
+Circles 
+i think you think too much of me 
+null 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Snaer. 
+Circles 
+Lazy.Files 
+https://p.scdn.co/mp3-preview/3adef4fabc4075f9daa248ebbf39fd680c8fa5be?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+mr_slace 
+colors 
+circles 
+https://p.scdn.co/mp3-preview/71c9a9f3749f2eafd5a7a8a2523f0eceb00a0c8a?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Various Artists 
+Circles 
+Equinox 
+https://p.scdn.co/mp3-preview/8090ca6a5e4e4132c725de23d23f0acc7c156481?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Lady Gaga 
+Dancin' In Circles 
+Joanne (Deluxe) 
+null 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Soul Coughing 
+Circles 
+El Oso 
+https://p.scdn.co/mp3-preview/3fdbb24b95111a0cd8d52f2fae4849543ed7a781?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Incubus 
+Circles 
+Morning View 
+https://p.scdn.co/mp3-preview/dc8bb1421f364bca7d5d8458d6949b2d0d20ebef?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Post Malone 
+Circles 
+Hollywood's Bleeding 
+null 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Durand Jones & The Indications 
+Circles 
+American Love Call 
+https://p.scdn.co/mp3-preview/76f9edac7e904961d40280df8ab701cb8f0117f4?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Ryan Beatty 
+Dark Circles 
+Dark Circles 
+null 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Sunny Day Real Estate 
+In Circles - Remastered 
+Diary (2009 Edition) 
+https://p.scdn.co/mp3-preview/b309b66516e5bca11e9172fce9140a8ab9ba7abf?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Jana Kramer 
+Circles 
+thirty one 
+https://p.scdn.co/mp3-preview/ca7e9e20c3244e2f44af63648d3b4e716edb641f?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Champagne Drip 
+Circles 
+Jovian Days 
+null 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+CHVRCHES 
+Never Ending Circles 
+Every Open Eye (Special Edition) 
+https://p.scdn.co/mp3-preview/99d774be725a5bb3e2a9d020c2b08a793640e6e4?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+Pusha T 
+Circles 
+Circles 
+null 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+The Friends Of Distinction 
+Going In Circles 
+Grazin' 
+https://p.scdn.co/mp3-preview/86fd796eea01133e3e868c2a7206cb6e3262bcf4?cid=8d913d681e384f46a27a149401884264 
+---------------------
+Song logged stamp: 2020-01-07T14:33:15-07:00 
+KDrew 
+Circles - Original 
+Circles - Single 
+https://p.scdn.co/mp3-preview/4ed07039186411c8f5fbf29acf23423a59684198?cid=8d913d681e384f46a27a149401884264 
+---------------------

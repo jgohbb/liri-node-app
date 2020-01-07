@@ -56,10 +56,21 @@ function concertInfo() {
     .get("https://rest.bandsintown.com/artists/" + searchInfo + "/events?app_id=codingbootcamp")
     .then (function(response) {
         for (var i = 0; i < response.data.length; i++) {
+            var concert = response.data;
             console.log("---------------------------------------")
-            console.log("Venue: " + response.data[i].venue.name);
-            console.log("Location: " + response.data[i].venue.city + ", " + response.data[i].venue.region + " " + response.data[i].venue.country);
-            console.log("Event Date: " + moment(response.data[i].datetime).format("dddd, MMMM Do YYYY"));
+            console.log("Venue: " + concert[i].venue.name);
+            console.log("Location: " + concert[i].venue.city + ", " + concert[i].venue.region + " " + concert[i].venue.country);
+            console.log("Event Date: " + moment(concert[i].datetime).format("dddd, MMMM Do YYYY"));
+
+            var timeStamp = moment().format();
+            fs.appendFile("log.txt", "Concert logged stamp: " + timeStamp + " \n" + concert[i].venue.name + 
+            " \n" + concert[i].venue.city+ ", " + concert[i].venue.region + " " + concert[i].venue.country +
+            " \n" + moment(concert[i].datetime).format("dddd, MMMM Do YYYY") +
+            " \n---------------------\n", function (error) {
+                if (error) {
+                    console.log(error);
+                }
+            })
         }
     })
     .catch(function(error) {
@@ -74,12 +85,13 @@ function spotifyInfo() {
         spotify
         .search({ type: 'track', query: "The Sign Ace of Base" })
         .then(function(response) {
+            var song = response.tracks;
             console.log("Seems like you did not select a song, so here's a great song you might like.");
             console.log("---------------------------------------");
-            console.log("Artist: " + response.tracks.items[0].album.artists[0].name);
-            console.log("Song Name: " + response.tracks.items[0].name);
-            console.log("Album Title: " + response.tracks.items[0].album.name);
-            console.log("Preview Link: " + response.tracks.items[0].preview_url);
+            console.log("Artist: " + song.items[0].album.artists[0].name);
+            console.log("Song Name: " + song.items[0].name);
+            console.log("Album Title: " + song.items[0].album.name);
+            console.log("Preview Link: " + song.items[0].preview_url);
         })
         .catch(function(error) {
             console.log(error);
@@ -89,11 +101,23 @@ function spotifyInfo() {
         .search({ type: 'track', query: searchInfo })
         .then(function(response) {
             for (var i = 0; i < response.tracks.items.length; i++ ) {
+                var song = response.tracks;
                 console.log("---------------------------------------");
-                console.log("Artist: " + response.tracks.items[i].album.artists[0].name);
-                console.log("Song Name: " + response.tracks.items[i].name);
-                console.log("Album Title: " + response.tracks.items[i].album.name);
-                console.log("Preview Link: " + response.tracks.items[i].preview_url);
+                console.log("Artist: " + song.items[i].album.artists[0].name);
+                console.log("Song Name: " + song.items[i].name);
+                console.log("Album Title: " + song.items[i].album.name);
+                console.log("Preview Link: " + song.items[i].preview_url);
+
+                var timeStamp = moment().format();
+                fs.appendFile("log.txt", "Song logged stamp: " + timeStamp + " \n" + song.items[i].album.artists[0].name + 
+                " \n" + song.items[i].name +
+                " \n" + song.items[i].album.name +
+                " \n" + song.items[i].preview_url+
+                " \n---------------------\n", function (error) {
+                    if (error) {
+                        console.log(error);
+                    }
+                })
             }
         })
         .catch(function(error) {
@@ -148,9 +172,8 @@ function movieInfo() {
             })
         })
         .catch(function(error) {
-            // console.log("---------------------------------------");
-            // console.log("No results found. Please try again.");
-            console.log(error);
+            console.log("---------------------------------------");
+            console.log("No results found. Please try again.");
         });
     }
     
