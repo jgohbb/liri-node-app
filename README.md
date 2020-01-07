@@ -15,15 +15,24 @@ User will require to input the command for the selected options in the terminal:
 - do-what-it-says
 
 Example:
-![concert] (images/concert-this.png)
+![concert](images/concert-this.png)
 
-## Concert-this
-The user will be able to search for upcoming concerts by artist or band. This will provide concerts venue, location and date.
-![concert2]  (images/concert-this2.png)
+## concert-this
+The user will be able to search for upcoming concerts by artist or band via Bands In Town api. This will provide concerts venue, location and date.
+![concert2](images/concert-this2.png)
 
+## spotify-this-song
+Searching for songs is made easy with this app retrieving from Spotify api. This will provide relevant information and url link to sample the music.
+![song2](images/spotify-this-song2.png)
 
+## movie-this
+This allow user to search for movies information from the OMDB api . This will provide information on year, ratings,country, language, plot and actors.
+![movie2](images/movie-this2.png)
 
+## do-what-it-says
+This option will provide a suggested information link to the text file for a spotify-this-song search for "I want it that way".
+![do-what-it-says2](images/do-what-it-says2.png)
 
-## Further improvements in the pipeline
+## Future improvements
 -[] Incorporate inquirer to make selection for options.
 -[] Introduce other api (cinemas) to expand scope of the app.
