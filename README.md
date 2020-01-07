@@ -3,8 +3,8 @@ This is a Language Interpretation and Recognition Interface (LIRI) app similar t
 
 ## Overview
 This app uses the command line ib the CLI to generate a response from the functions in the application. To retrieve the data that will power this app, users will require:
-(1) node.js
-(2) node modules for relevant npm - axios, moment
+(1) node.js, 
+(2) node modules for relevant npm - axios, moment, 
 (3) Spotify API client id and client secret
 
 ## Instructions
@@ -15,6 +15,7 @@ User will require to input the command for the selected options in the terminal:
 - do-what-it-says
 
 Example:
+
 ![concert](images/concert-this.png)
 
 ## concert-this
