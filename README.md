@@ -27,7 +27,7 @@ Searching for songs is made easy with this app retrieving from Spotify api. This
 ![song2](images/spotify-this-song2.png)
 
 ## movie-this
-This allow user to search for movies information from the OMDB api . This will provide information on year, ratings,country, language, plot and actors.
+This allow user to search for movies information from the OMDB api, providING information on year, ratings,country, language, plot and actors.
 ![movie2](images/movie-this2.png)
 
 ## do-what-it-says
