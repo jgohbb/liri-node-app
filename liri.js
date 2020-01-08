@@ -37,7 +37,7 @@ if (request === "concert-this") {
         searchInfo = dataArr[1];
         
         if (request === "concert-this") {
-            ConcertInfo();
+            concertInfo();
         } else if (request === "spotify-this-song") {
             spotifyInfo();
         } else if (request === "movie-this") {
