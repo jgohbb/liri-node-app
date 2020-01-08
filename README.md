@@ -35,5 +35,6 @@ This option will provide a suggested information link to the text file for a spo
 ![do-what-it-says2](images/do-what-it-says2.png)
 
 ## Future improvements
--[] Incorporate inquirer to make selection for options.
--[] Introduce other api (cinemas) to expand scope of the app.
+- [] Incorporate inquirer to make selection for options.
+
+- [] Introduce other api (cinemas) to expand scope of the app.
